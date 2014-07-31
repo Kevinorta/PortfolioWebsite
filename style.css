@@ -1,0 +1,75 @@
+.header .container a{
+	display: inline;
+	color:#FF215E;
+	font-size:42px;
+	text-align:center;
+}
+
+.header .container a:hover{
+	background-color:#279B86;
+	border-radius: 10px;
+	color:#00093E;
+}
+#current{
+	background-color:#279B86;
+	border-radius: 10px;
+	color:#00093E;
+}
+.header {
+	 background-color:#00093E;
+	 border-bottom: 5px solid #FF215E;
+	}
+
+.content{
+	background-color: :#2CA788;
+}
+.content .aboutMe h1, .name, .contacts h1{
+	text-align:center;
+	font-size: 75px;
+	text-decoration: underline;
+	color:#00093E;
+}
+.who, .kids h2, .website h2 {
+	text-align: center;
+	font-size: 50px;
+	text-decoration: underline;
+	color: #279B86;
+
+}
+.intro, .kids p, .website p {
+	text-align: center;
+	font-size: 35px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 5%;
+}
+.thumbnail{
+	height:350px;
+	width:400px;
+	float: right;
+	margin-right: 25px;
+}
+.intro2{
+	text-align: center;
+	font-size: 35px;
+}
+.website .thumbnail{
+	height:300px;
+}
+.contacts h2 {
+	text-align: center;
+	font-size: 50px;
+	text-decoration: underline;
+	color: #279B86;
+}
+.contacts p{
+	text-align: center;
+	font-size: 35px;
+}
+body{
+	background-color: #FFFFF8;
+}
+
+
+
+
